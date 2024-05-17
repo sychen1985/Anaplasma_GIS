@@ -1,5 +1,5 @@
-# Template GitHub Repository for EpiPandit Lab
-## Quantitative veterinary epidemiology and disease ecology lab
+# Anaplasma in Beef cattle
+## Spatial analysis by Shih-Yu Chen. 
 ==============================
 
 Text summarizing your project.
@@ -40,21 +40,3 @@ Text summarizing your project.
     │   └── visualization  <- Scripts to create exploratory and results-oriented visualizations
 
 --------
-
-
-## Setup Instructions
-------------
-1. Clone the repo
-2. Create a virtual environment
-3. Install the requirements
-4. Run the notebooks
-
-```bash
-git clone
-cd EpiPandit_Template
-make conda-create
-conda activate EpiPandit_Template
-make setup
-jupyter notebook
-```
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</small></p>
